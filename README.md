@@ -12,11 +12,41 @@
 
 **OS**：Windows 10
 
+> 框架说明
+>
+> WinForm 是 Windows Form 的简称，是基于 .NET Framework 平台的客户端（PC软件）开发技术，一般使用 [C#](http://c.biancheng.net/csharp/) 编程。
+>
+> .NET Framework 是一种技术，支持生成和运行 Windows 应用及 Web 服务。
+>
+> .NET Framework 包括公共语言运行时 (CLR) 和 .NET Framework 类库。 公共语言运行时是 .NET Framework 的基础。 可将运行时看作一个在执行时管理代码的代理，它提供**内存管理、线程管理和远程处理**等核心服务，并且还强制实施严格的类型安全以及可提高安全性和可靠性的其他形式的代码准确性。 事实上，代码管理的概念是运行时的基本原则。 以运行时为目标的代码称为托管代码，而不以运行时为目标的代码称为非托管代码。 类库是一个综合性的面向对象的可重用类型集合，可使用它来开发多种应用，这些应用包括**传统的命令行或图形用户界面 (GUI) 应用**，还包括基于 ASP.NET 提供的最新创新的应用（如 Web Forms 和 XML Web service）。
+
 ---
 
 ## 源码地址
 
 [Tcoder-l3est/Hotel-Management-Database-System: 数据库课设---酒店管理系统 (github.com)](https://github.com/Tcoder-l3est/Hotel-Management-Database-System)
+
+## 相关技术学习
+
+[C#教程：C#入门经典教程，值得收藏 (biancheng.net)](http://c.biancheng.net/csharp/)
+
+> **NET Framework Class Library — .NET Framework 类库**
+>
+> .NET Framework 类库是一个与公共语言运行时紧密集成的可重用的类型集合。 该类库是面向对象的，并提供某些类型，可供你自己的托管代码从中派生功能。 这不但使 .NET Framework 类型易于使用，而且还减少了学习 .NET Framework 的新功能所需要的时间。 此外，第三方组件与 .NET Framework 中的类无缝集成。
+>
+> 例如，.NET Framework 集合类实现一组用于开发自己的集合类的接口。 你的集合类与 .NET Framework 中的类无缝地混合。
+>
+> 正如你对面向对象的类库所希望的那样，.NET Framework 类型使你能够完成一系列常见编程任务，包括字符串管理、数据收集、数据库连接以及文件访问。 除这些常规任务之外，类库还包括支持多种专用开发方案的类型。 可以使用 .NET Framework 开发下列类型的应用和服务：
+>
+> - Console 应用。 请参阅[生成控制台应用程序](https://docs.microsoft.com/zh-cn/dotnet/standard/building-console-apps)。
+> - Windows GUI 应用（Windows 窗体）。 请参阅 [Windows 窗体](https://docs.microsoft.com/zh-cn/dotnet/desktop/winforms/)。
+> - Windows Presentation Foundation (WPF) 应用。 请参阅 [Windows Presentation Foundation](https://docs.microsoft.com/zh-cn/dotnet/desktop/wpf/)。
+> - ASP.NET 应用。 请参阅[使用 ASP.NET 的 Web 应用程序](https://docs.microsoft.com/zh-cn/dotnet/framework/develop-web-apps-with-aspnet)。
+> - Windows 服务。 请参阅 [Windows 服务应用程序简介](https://docs.microsoft.com/zh-cn/dotnet/framework/windows-services/introduction-to-windows-service-applications)。
+> - 使用 Windows Communication Foundation (WCF) 的面向服务的应用。 请参阅[使用 WCF 的面向服务的应用程序](https://docs.microsoft.com/zh-cn/dotnet/framework/wcf/)。
+> - 使用 Windows Workflow Foundation (WF) 的启用工作流程的应用。 请参阅[Windows Workflow Foundation](https://docs.microsoft.com/zh-cn/dotnet/framework/windows-workflow-foundation/)。
+>
+> Windows 窗体类是一组综合性的可重用的类型，它们大大简化了 Windows GUI 的开发。 如果要编写 ASP.NET Web 窗体应用，可使用 Web 窗体类。
 
 ## 数据库规划
 
